@@ -3,7 +3,7 @@
 //
 #include <iostream>
 #include <fstream>
-#include "magma.h"
+#include "magma.hpp"
 
 using namespace std;
 
